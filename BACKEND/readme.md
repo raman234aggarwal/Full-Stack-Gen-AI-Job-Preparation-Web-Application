@@ -16,3 +16,8 @@ axios
 cloudinary
 multer
 morgan
+
+
+day -3 
+todays i also learn about the how to use the  and i am preparing for exam that why low work today
+./ vs ../ 
